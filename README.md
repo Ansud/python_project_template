@@ -3,6 +3,7 @@
 A clean and ready-to-use template for Python projects, including linters, pre-commit hooks, and CI configuration.
 
 ## How to use
+
 1. Fork this repository on GitHub and clone it to your local machine.
 2. Create a virtual environment and install development dependencies:
 
@@ -18,7 +19,7 @@ pip install -r requirements-dev.txt
 pre-commit install
 ```
 
-4. Replace all instances of python_project_template in this README with your actual repository name from GitHub repo URL.
+4. Replace all instances of python_project_template in this readme with your actual repository name from GitHub repository URL.
 
 ## Commit and Push
 
