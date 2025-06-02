@@ -20,7 +20,7 @@ identify==2.6.6
     # via pre-commit
 iniconfig==2.0.0
     # via pytest
-mypy==1.15.0
+mypy==1.16.0
     # via -r requirements-dev.in
 mypy-extensions==1.0.0
     # via mypy
@@ -30,6 +30,8 @@ packaging==24.2
     # via
     #   build
     #   pytest
+pathspec==0.12.1
+    # via mypy
 pip-tools==7.4.1
     # via -r requirements-dev.in
 platformdirs==4.3.6
